@@ -15,6 +15,6 @@ Object Oriented Programming in Java
 ![Register Fire Department](images/fireCode.png)
 
 ![Display Doctors](images/displayDocs.png)
-![Display Patients](images/diplayPats.png)
+![Display Patients](images/displayPats.png)
 ![Display Ambulance Departments](images/displayAmbs.png)
 ![Display Fire Departments](images/displayFires.png)
