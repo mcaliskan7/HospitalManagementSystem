@@ -16,5 +16,6 @@ Object Oriented Programming in Java
 
 ![Display Doctors](images/displayDocs.png)
 ![Display Patients](images/displayPats.png)
+
 ![Display Ambulance Departments](images/displayAmbs.png)
 ![Display Fire Departments](images/displayFires.png)
